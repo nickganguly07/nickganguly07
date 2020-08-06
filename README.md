@@ -8,8 +8,6 @@
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
 - 🔭 Fun fact: I love to play video games 🎮 = ❤️
 
-  <br />
-
 ### Connect with me 📱
 
 [<img align="left" alt="craftbynick.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][work]
