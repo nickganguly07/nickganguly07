@@ -3,10 +3,10 @@
 ## I'm a [Husband][anubha], [Brother][bart], [Developer, Designer &amp; Entrepreneur][work]!
 
 - 🏢 I’m currently working at [Cyboticx][work]!
-- 🏗 I’m currently building [HerbanApp][weed] with [@HuzarO][bart] 🌱 🚬 = 😆
+- 🏗 I’m currently building [HerbanApp][weed] with [@HuzarO][bart] 🌱 🚬 ➡️ 😆
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
-- 🔭 Fun fact: I love to play video games 🎮 = ❤️
+- 🔭 Fun fact: I love to design and play video games 🎮 ➡️ ❤️
 
 ### Connect with me 📱
 
