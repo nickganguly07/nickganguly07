@@ -84,7 +84,7 @@
 
 <!-- MY PERSONAL LINKS: START -->
 
-[website]: https://craftbynick.com
+[website]: https://medium.com/@craftbynick
 [work]: https://cyboticx.com
 [weed]: https://herban.app
 [twitter]: https://twitter.com/craftbynick
