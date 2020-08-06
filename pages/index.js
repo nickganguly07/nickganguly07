@@ -1,9 +1,15 @@
 import Link from "next/link";
-export default () => (
-  <div>
-    Hello World.{" "}
-    <Link href="/about" as={process.env.BACKEND_URL + "/about"}>
-      <a>About</a>
-    </Link>
-  </div>
-);
+export default function Home() {
+  return (
+    <div>
+      <div>Home Page</div>
+      <p>Yo Bart This is coming from Next.jS!!!</p>
+      <div>
+        Go to{" "}
+        <Link href="/about" as={process.env.BACKEND_URL + "/about"}>
+          <a>About Page</a>
+        </Link>
+      </div>
+    </div>
+  );
+}
