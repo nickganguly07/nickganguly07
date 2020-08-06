@@ -39,6 +39,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][docker]
+<br />
 
 ### What I'm Currently Learning:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
