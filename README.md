@@ -7,6 +7,7 @@
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
 - 🔭 Fun fact: I love to play video games 🎮
 <br />
+<br />
 
 ### Connect with me:
 [<img align="left" alt="craftbynick.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][work]
@@ -14,6 +15,7 @@
 [<img align="left" alt="craftbynick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="craftbynick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="craftbynick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 <br />
 
 ### Languages and Tools I Use:
@@ -40,6 +42,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][docker]
+<br />
 <br />
 
 ### What I'm Currently Learning:
