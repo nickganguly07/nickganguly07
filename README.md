@@ -61,8 +61,8 @@
 
 ### What I'm Currently Learning 📖
 
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][rust]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
-[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />][swift]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][deno]
 
@@ -129,7 +129,7 @@
 [github]: https://github.com/github
 [docker]: https://github.com/docker
 [python]: https://github.com/python
-[swift]: https://github.com/apple/swift
 [cpp]: https://isocpp.org
+[rust]: https://rust-lang.org
 
 <!-- TECH LINKS: END -->
