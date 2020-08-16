@@ -64,7 +64,7 @@
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][rust]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][deno]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/elixir/elixir.png" />][elixir]
 
 &nbsp;
 <br />
@@ -118,7 +118,7 @@
 [nodejs]: https://github.com/nodejs/node
 [express]: https://github.com/expressjs/express
 [npm]: https://github.com/npm
-[deno]: https://github.com/denoland/deno
+[elixir]: https://elixir-lang.org
 [graphql]: https://github.com/graphql
 [mysql]: https://github.com/mysql
 [mongo]: https://github.com/mongodb/mongo
