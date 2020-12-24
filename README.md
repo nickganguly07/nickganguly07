@@ -5,7 +5,7 @@
 - 🏢 I’m currently working [@Cyboticx][work]!
 - 🏗 I’m currently building [HerbanApp][weed] with [@HuzarO][bart] 🌱➕ 🚬 ➡️ 😆
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020-2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Launch HerbanApp 🥳
 - 🔭 Fun fact: I love to design and play video games 🎨 ➕ 🎮 ➡️ ❤️
 
 <!-- TODO:  Download all images and add it to a folder on this git repo directly -->
@@ -44,16 +44,17 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />][graphql]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />][dart]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
+[<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />][electron]
+
 
 &nbsp;
 <br />
 
-[<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />][electron]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][docker]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][kubernetes]
 
 &nbsp;
 <br />
@@ -61,7 +62,6 @@
 
 ### What I'm Currently Learning 📖
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][rust]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/elixir/elixir.png" />][elixir]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
@@ -84,7 +84,7 @@
 
 <img align="left" alt="craftbynick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftbynick&show_icons=true&hide_border=true" />
 
-<!-- MY PERSONAL LINKS: START -->
+<!-- PERSONAL LINKS: START -->
 
 [website]: https://medium.com/@craftbynick
 [work]: https://cyboticx.com
@@ -94,7 +94,7 @@
 [linkedin]: https://linkedin.com/in/craftbynick
 [behance]: https://www.behance.net/craftbynick
 
-<!-- MY PERSONAL LINKS: END -->
+<!-- PERSONAL LINKS: END -->
 
 <!-- FAMILY LINKS: START -->
 
@@ -122,12 +122,11 @@
 [graphql]: https://github.com/graphql
 [mysql]: https://github.com/mysql
 [mongo]: https://github.com/mongodb/mongo
-[flutter]: https://github.com/flutter/flutter
-[dart]: https://github.com/dart-lang
 [electron]: https://github.com/electron/electron
 [git]: https://github.com/git/git
 [github]: https://github.com/github
 [docker]: https://github.com/docker
+[kubernetes]: https://github.com/kubernetes
 [python]: https://github.com/python
 [cpp]: https://isocpp.org
 [rust]: https://rust-lang.org
