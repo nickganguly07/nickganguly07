@@ -1,4 +1,4 @@
-### Hi there, I'm Nick - aka [Craftbynick][website] 👋
+### Hi there, I'm Abhishek - aka Nick! 👋
 
 ## I'm a [Husband][anubha], [Brother][bart], [Developer, Designer &amp; Entrepreneur][work]!
 
