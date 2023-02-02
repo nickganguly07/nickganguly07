@@ -139,6 +139,7 @@
 [scrapy]: https://scrapy.org
 [hadoop]: https://hadoop.apache.org
 [spark]: https://spark.apache.org
+[pytorch]: https://pytorch.org
 [tensorflow]: https://tensorflow.org
 [jupyter]: https://jupyter.org
 [rapidminer]: https://rapidminer.com
