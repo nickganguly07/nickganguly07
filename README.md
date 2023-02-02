@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek - aka Nick! 👋
 
-## I'm a [Husband][anubha], [Brother][bart], [Developer, Data Engineer, Data Scientist &amp; Entrepreneur][work]!
+## I'm a [Husband][anubha], [Brother][bart], [Data Nerd, Developer &amp; Entrepreneur][work]!
 
 - 🏢 I’m currently working [@Cyboticx][work]!
 - 🏗 I’m currently building [HerbanApp][weed] with [@Bart][bart] 🌱➕ 🚬 ➡️ 😆
