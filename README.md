@@ -58,8 +58,14 @@
 [<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/898px-Pandas_mark.svg.png?20200210000431" />][pandas]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />][pytorch]
-[<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />][jupyter]
 
+
+&nbsp;
+<br />
+
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />][aws]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />][azure]
+[<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />][gcp]
 
 &nbsp;
 <br />
