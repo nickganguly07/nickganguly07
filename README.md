@@ -5,7 +5,7 @@
 - 🏢 I’m currently working [@Cyboticx][work]!
 - 🏗 I’m currently building [HerbanApp][weed] with [@HuzarO][bart] 🌱➕ 🚬 ➡️ 😆
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Launch HerbanApp 🥳
+- 🥅 2023 Goals: Launch HerbanApp 🥳
 - 🔭 Fun fact: I love to design and play video games 🎨 ➕ 🎮 ➡️ ❤️
 
 <!-- TODO:  Download all images and add it to a folder on this git repo directly -->
