@@ -55,6 +55,10 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][kubernetes]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
+[<img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />][pandas]
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />][tensorflow]
+[<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />][pytorch]
+[<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />][jupyter]
 
 
 &nbsp;
@@ -109,9 +113,9 @@
 [nodejs]: https://github.com/nodejs/node
 [express]: https://github.com/expressjs/express
 [npm]: https://github.com/npm
-[elixir]: https://elixir-lang.org
 [graphql]: https://github.com/graphql
 [mysql]: https://github.com/mysql
+[postgres]: https://www.postgresql.org
 [mongo]: https://github.com/mongodb/mongo
 [electron]: https://github.com/electron/electron
 [git]: https://github.com/git/git
@@ -121,5 +125,30 @@
 [python]: https://github.com/python
 [cpp]: https://isocpp.org
 [rust]: https://rust-lang.org
+[matplotlib]: https://matplotlib.org
+[pandas]: https://pandas.pydata.org
+[numpy]: https://numpy.org
+[scipy]: https://scipy.org
+[sklearn]: https://scikit-learn.org
+[scrapy]: https://scrapy.org
+[hadoop]: https://hadoop.apache.org
+[spark]: https://spark.apache.org
+[tensorflow]: https://tensorflow.org
+[jupyter]: https://jupyter.org
+[rapidminer]: https://rapidminer.com
+[airflow]: https://airflow.apache.org
+[databricks]: https://databricks.com
+[matlab]: https://mathworks.com
+[kafka]: https://kafka.apache.org
+[hive]: https://hive.apache.org
+[awsredshift]: https://aws.amazon.com/redshift
+[awsathena]: https://aws.amazon.com/athena
+[bigquery]: https://cloud.google.com/bigquery
+[snowflake]: https://snowflake.com
+[tableau]: https://tableau.com
+[aws]: https://aws.amazon.com
+[azure]: https://azure.microsoft.com
+[googlecloud]: https://cloud.google.com
+
 
 <!-- TECH LINKS: END -->
