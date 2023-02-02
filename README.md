@@ -12,7 +12,7 @@
 
 ### Connect with me 📱
 
-[<img align="left" alt="cyboticx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][work]
+[<img align="left" alt="cyboticx.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Twemoji2_1f310.svg/1024px-Twemoji2_1f310.svg.png?20170615230316" />][work]
 [<img align="left" alt="nickganguly07 | Behance$$" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nickganguly07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
