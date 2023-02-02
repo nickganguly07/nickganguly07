@@ -13,10 +13,10 @@
 ### Connect with me 📱
 
 [<img align="left" alt="cyboticx.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Twemoji2_1f310.svg/1024px-Twemoji2_1f310.svg.png?20170615230316" />][work]
-[<img align="left" alt="nickganguly07 | Behance$$" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nickganguly07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nickganguly07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nickganguly07 | Behance$$" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Font_Awesome_5_brands_behance-square.svg/1024px-Font_Awesome_5_brands_behance-square.svg.png?20181017215845" />][behance]
+[<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png?20220821125553" />][twitter]
+[<img align="left" alt="nickganguly07 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="nickganguly07 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 &nbsp;
 <br />
