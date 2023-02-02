@@ -3,7 +3,7 @@
 ## I'm a [Husband][anubha], [Brother][bart], [Developer, Designer &amp; Entrepreneur][work]!
 
 - 🏢 I’m currently working [@Cyboticx][work]!
-- 🏗 I’m currently building [HerbanApp][weed] with [@HuzarO][bart] 🌱➕ 🚬 ➡️ 😆
+- 🏗 I’m currently building [HerbanApp][weed] with [@Bart][bart] 🌱➕ 🚬 ➡️ 😆
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Launch HerbanApp 🥳
 - 🔭 Fun fact: I love to design and play video games 🎨 ➕ 🎮 ➡️ ❤️
@@ -12,11 +12,11 @@
 
 ### Connect with me 📱
 
-[<img align="left" alt="craftbynick.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][work]
-[<img align="left" alt="craftbynick | Behance$$" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="craftbynick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="craftbynick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="craftbynick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cyboticx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][work]
+[<img align="left" alt="nickganguly07 | Behance$$" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nickganguly07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nickganguly07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 &nbsp;
 <br />
@@ -54,17 +54,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][kubernetes]
-
-&nbsp;
-<br />
-<br />
-
-### What I'm Currently Learning 📖
-
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][python]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][rust]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/elixir/elixir.png" />][elixir]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
+
 
 &nbsp;
 <br />
@@ -82,17 +73,17 @@
 - [Cannabis might reduce deadly COVID-19 lung-infections: Study](https://medium.com/herbanapp/cannabis-might-reduce-deadly-covid-19-lung-infections-study-33b34658c1b6)
 <!-- MEDIUM (HB):END -->
 
-<img align="left" alt="craftbynick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftbynick&show_icons=true&hide_border=true" />
+<img align="left" alt="nickganguly07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nickganguly07&show_icons=true&hide_border=true" />
 
 <!-- PERSONAL LINKS: START -->
 
-[website]: https://medium.com/@craftbynick
+[website]: https://medium.com/@nickganguly07
 [work]: https://cyboticx.com
 [weed]: https://herban.app
-[twitter]: https://twitter.com/craftbynick
-[instagram]: https://instagram.com/craftbynick
-[linkedin]: https://linkedin.com/in/craftbynick
-[behance]: https://www.behance.net/craftbynick
+[twitter]: https://twitter.com/nickganguly07
+[instagram]: https://instagram.com/nickganguly07
+[linkedin]: https://linkedin.com/in/nickganguly07
+[behance]: https://www.behance.net/nickganguly07
 
 <!-- PERSONAL LINKS: END -->
 
