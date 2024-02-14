@@ -74,15 +74,15 @@
 
 ### 🌲 HerbanApp Project Blog (Technical Blogs Coming Soon!)
 
-<!-- MEDIUM (HB):START -->
+MEDIUM (HB):START -->
 
 - [How Cannabis legalization has reduced opioid deaths in the US](https://medium.com/herbanapp/how-cannabis-legalization-has-reduced-opioid-deaths-in-the-us-84961179fc85)
 - [Cannabis sales plummet after experts advise not to share joints during pandemic](https://medium.com/herbanapp/cannabis-sales-plummet-after-experts-advise-not-to-share-joints-during-pandemic-99f89e947025)
 - [CBD Oil: Nature’s remedy for Neuropathic pain](https://medium.com/herbanapp/cbd-oil-natures-remedy-for-neuropathic-pain-78ec2e2c04a5)
 - [Cannabis might reduce deadly COVID-19 lung-infections: Study](https://medium.com/herbanapp/cannabis-might-reduce-deadly-covid-19-lung-infections-study-33b34658c1b6)
-<!-- MEDIUM (HB):END -->
+<!-- MEDIUM (HB):END
 
-<img align="left" alt="nickganguly07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nickganguly07&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="nickganguly07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nickganguly07&show_icons=true&hide_border=true" /> -->
 
 <!-- PERSONAL LINKS: START -->
 
