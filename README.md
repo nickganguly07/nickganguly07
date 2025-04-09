@@ -14,7 +14,7 @@
 
 [<img align="left" alt="cyboticx.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Twemoji2_1f310.svg/1024px-Twemoji2_1f310.svg.png?20170615230316" />][work]
 [<img align="left" alt="nickganguly07 | Behance$$" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />][behance]
-[<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/x-logo.svg/1024px-Twitter-logo.svg.png?20220821125553" />][twitter]
+[<img align="left" alt="nickganguly07 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png" />][twitter]
 [<img align="left" alt="nickganguly07 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="nickganguly07 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
