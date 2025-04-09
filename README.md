@@ -3,9 +3,9 @@
 ## I'm a [Husband][anubha], [Brother][bart], [Data Nerd, Developer &amp; Entrepreneur][work]!
 
 - 🏢 I’m currently working [@Cyboticx][work]!
-- 🏗 I’m currently building [HerbanApp][weed] with [@Bart][bart] 🌱➕ 🚬 ➡️ 😆
+- 🏗 I’m currently building Procesaur
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Launch HerbanApp 🥳
+- 🥅 2025 Goals: Launch Procesaur 🥳
 - 🔭 Fun fact: I love to design and play video games 🎨 ➕ 🎮 ➡️ ❤️
 
 <!-- TODO:  Download all images and add it to a folder on this git repo directly -->
